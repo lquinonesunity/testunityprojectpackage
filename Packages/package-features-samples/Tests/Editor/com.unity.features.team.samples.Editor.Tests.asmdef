@@ -1,0 +1,21 @@
+{
+    "name": "com.unity.features.team.samples.Editor.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d3a82472af241b84292d7b86d78bd032",
+        "GUID:6ca318f43c938cb4aa65be4540ed12be"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
