@@ -5,7 +5,7 @@ on:
     - master
 jobs:
   split-upm:
-    name: split upm branch (force)
+    name: the split upm branch (force)
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
