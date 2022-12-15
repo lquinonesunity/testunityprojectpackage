@@ -2,3 +2,7 @@ This is just a template package with a template sample folder structure.
 Import of this example file is successful!
 
 Check this
+
+
+Check this
+Check this
