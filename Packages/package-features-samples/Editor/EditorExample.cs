@@ -87,6 +87,8 @@ namespace com.unity.features.team.samples.Editor
             EditorGUILayout.PropertyField(exampleField, true);
             serializedObject.ApplyModifiedProperties();
         }
+
+	// Just a little text
     }
 
     internal class RuntimeExample
