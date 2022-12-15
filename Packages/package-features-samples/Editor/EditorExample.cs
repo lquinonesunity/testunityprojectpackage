@@ -88,6 +88,11 @@ namespace com.unity.features.team.samples.Editor
             serializedObject.ApplyModifiedProperties();
         }
 
+        public void MyNewMethodCalledNew()
+        {
+            Debug.Log("Hi");
+        }
+
 	// Just a little text
     }
 
