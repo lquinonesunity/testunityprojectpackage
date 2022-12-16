@@ -37,6 +37,11 @@
       "displayName": "AnotheSample",
       "description": "This sample is just an AnotheSample",
       "path": "Samples~/AnotheSample"
+    },
+    {
+      "displayName": "Playables Sample",
+      "description": "This is a sample of the playables examples given by unity",
+      "path": "Samples~/PlayablesSampleLeo"
     }
   ]
 }
