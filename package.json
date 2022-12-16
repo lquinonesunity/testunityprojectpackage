@@ -32,6 +32,11 @@
       "displayName": "Example 12",
       "description": "This sample is just an example 2",
       "path": "Samples~/Example2"
+    },
+    {
+      "displayName": "AnotheSample",
+      "description": "This sample is just an AnotheSample",
+      "path": "Samples~/AnotheSample"
     }
   ]
 }
