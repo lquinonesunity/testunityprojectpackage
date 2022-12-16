@@ -15,4 +15,10 @@ public class myNewScript : MonoBehaviour
     {
         
     }
+
+    void NewMethod()
+    {
+        var myvar = 10;
+        
+    }
 }
