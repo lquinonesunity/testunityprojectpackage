@@ -42,6 +42,11 @@
       "displayName": "Playables Sample",
       "description": "This is a sample of the playables examples given by unity",
       "path": "Samples~/PlayablesSampleLeo"
+    },
+    {
+      "displayName": "MyNewTestSample01",
+      "description": "A test project called MyNewTestSample01",
+      "path": "Samples~/MyNewTestSample01"
     }
   ]
 }
