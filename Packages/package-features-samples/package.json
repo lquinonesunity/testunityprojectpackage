@@ -47,6 +47,11 @@
       "displayName": "MyNewTestSample01",
       "description": "A test project called MyNewTestSample01",
       "path": "Samples~/MyNewTestSample01"
+    },
+    {
+      "displayName": "Grid Level Editor",
+      "description": "Grid Level Editor by LQ",
+      "path": "Samples~/_Minigames"
     }
   ]
 }
