@@ -476,7 +476,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 919132148331632056}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e40f3531ce568ed4a9b9b98d459ed0ea, type: 3}
   m_Name: 
@@ -679,11 +679,11 @@ GameObject:
   m_Component:
   - component: {fileID: 543450652249067266}
   - component: {fileID: 2098405957}
+  - component: {fileID: 2098405960}
+  - component: {fileID: 2098405956}
   - component: {fileID: 2098405959}
   - component: {fileID: 2098405958}
-  - component: {fileID: 2098405956}
   - component: {fileID: 2098405961}
-  - component: {fileID: 2098405960}
   m_Layer: 0
   m_Name: Ch39_nonPBR-TPoseModel_NormalSize
   m_TagString: Untagged
