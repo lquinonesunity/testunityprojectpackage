@@ -71,6 +71,7 @@ namespace com.unity.features.team.samples
         /// </summary>
         void Start()
         {
+            Debug.Log("Packaae ready");
         }
 
         /// <summary>
