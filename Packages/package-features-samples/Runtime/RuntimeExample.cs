@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections.Generic;
+using DLLTest;
 
 namespace com.unity.features.team.samples
 {
@@ -71,7 +72,9 @@ namespace com.unity.features.team.samples
         /// </summary>
         void Start()
         {
-            Debug.Log("Packaae ready");
+            Debug.Log("Packaae ready" + exampleField);
+            var myU = new MyUtilities();
+            myU.CallToShowText();
         }
 
         /// <summary>

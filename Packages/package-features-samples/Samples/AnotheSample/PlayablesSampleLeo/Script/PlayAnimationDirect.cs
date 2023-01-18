@@ -22,13 +22,23 @@ public class PlayAnimationDirect : MonoBehaviour
         h.AddValues(4,3);
         Debug.Log(h.c);
         
+        h.CallToShowText();
+        
         InstatiateObject();
+        //ShowText();
     }
 
     public void InstatiateObject()
     {
         Instantiate(prefab_ref, new Vector3(0.0f, 0, 0), Quaternion.identity);
     }
+
+    /*public void ShowText()
+    {
+        var mytext = Resources.Load<TextAsset>("Text/MyText");
+        Debug.Log(mytext.text);
+    }*/
+    
 
     private void OnDisable()
     {
