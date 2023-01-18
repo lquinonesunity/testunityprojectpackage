@@ -489,12 +489,13 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 919132148331632056}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 84e6a3200e87cf041bd777ec6ee1387e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   mclip: {fileID: -203655887218126122, guid: 2f40ea12f6f10d4459ad520ed451dd52, type: 3}
+  prefab_ref: {fileID: 288443206779247461, guid: 23d528cc47b0e914784d9f8bfe4ae7cf, type: 3}
 --- !u!114 &2098405961
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -684,6 +685,7 @@ GameObject:
   - component: {fileID: 2098405959}
   - component: {fileID: 2098405958}
   - component: {fileID: 2098405961}
+  - component: {fileID: 919132148331632057}
   m_Layer: 0
   m_Name: Ch39_nonPBR-TPoseModel_NormalSize
   m_TagString: Untagged
@@ -691,6 +693,21 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &919132148331632057
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 919132148331632056}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55157539b83dab548a2f3c174b6ba850, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  weight: 0
+  clip0: {fileID: 7400000, guid: c91389c39d842cc4190ea8be0836798a, type: 2}
+  clip1: {fileID: 0}
 --- !u!4 &1031632035576640863
 Transform:
   m_ObjectHideFlags: 0
