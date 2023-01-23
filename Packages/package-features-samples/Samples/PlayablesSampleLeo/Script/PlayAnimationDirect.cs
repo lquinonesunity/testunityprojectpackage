@@ -24,7 +24,7 @@ public class PlayAnimationDirect : MonoBehaviour
         
         h.CallToShowText();
         
-        InstatiateObject();
+        //InstatiateObject();
         //ShowText();
     }
 
