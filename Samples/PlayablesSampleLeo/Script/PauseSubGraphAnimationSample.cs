@@ -6,6 +6,8 @@ using UnityEngine.Playables;
 using UnityEngine.Animations;
 using com.unity.features.team.samples;
 
+//Controlling the play state of the tree
+
 [RequireComponent(typeof(Animator))]
 public class PauseSubGraphAnimationSample : MonoBehaviour
 {
