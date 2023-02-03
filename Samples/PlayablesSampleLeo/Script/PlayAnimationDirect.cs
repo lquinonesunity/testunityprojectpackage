@@ -17,15 +17,7 @@ public class PlayAnimationDirect : MonoBehaviour
     private void Start()
     {
         AnimationPlayableUtilities.PlayClip(GetComponent<Animator>(), mclip, out _playableGraph);
-        //Debug.Log(addval (5, 20));
-        var h = new MyUtilities();
-        h.AddValues(4,3);
-        Debug.Log(h.c);
         
-        h.CallToShowText();
-        
-        //InstatiateObject();
-        //ShowText();
     }
 
     public void InstatiateObject()
