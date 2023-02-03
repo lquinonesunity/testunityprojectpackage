@@ -15,6 +15,8 @@ public class RunCode : MonoBehaviour
         myInstance.CallToShowText();
         
         myInstance.CallToShowText_Alternative();
+        
+        myInstance.CallToNumbers();
 
     }
 }

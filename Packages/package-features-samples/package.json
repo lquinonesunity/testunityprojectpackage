@@ -14,7 +14,8 @@
     "url": "https://www.unity.com"
   },
   "dependencies": {
-    "com.unity.ext.nunit": "1.0.0"
+    "com.unity.ext.nunit": "1.0.0",
+    "com.unity.features.team.samples.otherpackage": "ssh://git@github.com/lquinonesunity/mainpackage.git#upm"
   },
   "keywords": [
     "Unity Samples",

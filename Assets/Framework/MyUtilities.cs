@@ -28,5 +28,10 @@ namespace DLLTest {
             Debug.Log("My Call 2");
             Class1.ShowText();
         }
+        public void CallToNumbers()
+        {
+            Debug.Log("My Call Numbers 1");
+            Class1.ShowNumber();
+        }
     }
 }

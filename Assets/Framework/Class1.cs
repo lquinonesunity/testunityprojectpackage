@@ -14,5 +14,12 @@ namespace DLLTest
             var mytext = Resources.Load<TextAsset>("Text/MyText");
             Debug.Log(mytext.text);
         }
+        public static void ShowNumber()
+        {
+            for (int i = 0; i < 5; i++)
+            {
+                Debug.Log("N: " + i);
+            }
+        }
     }
 }
