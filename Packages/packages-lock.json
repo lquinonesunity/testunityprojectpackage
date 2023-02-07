@@ -164,6 +164,15 @@
       "depth": 0,
       "source": "embedded",
       "dependencies": {
+        "com.unity.ext.nunit": "1.0.0",
+        "com.unity.features.team.samples.otherpackage": "1.0.0-pre.1"
+      }
+    },
+    "com.unity.features.team.samples.otherpackage": {
+      "version": "file:package-features-samples-test",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
         "com.unity.ext.nunit": "1.0.0"
       }
     },

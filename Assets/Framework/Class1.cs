@@ -21,5 +21,10 @@ namespace DLLTest
                 Debug.Log("N: " + i);
             }
         }
+        
+        public static void MyNewMethodShowSomething()
+        {
+            Debug.Log("MyNewMethodShowSomething(): Something");
+        }
     }
 }

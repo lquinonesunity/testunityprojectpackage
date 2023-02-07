@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using Palmmedia.ReportGenerator.Core.Parser.Analysis;
 using UnityEngine;
 
 namespace DLLTest {
@@ -32,6 +31,12 @@ namespace DLLTest {
         {
             Debug.Log("My Call Numbers 1");
             Class1.ShowNumber();
+        }
+
+        public void CallNewMethod()
+        {
+            Debug.Log("New Method");
+            Class1.MyNewMethodShowSomething();
         }
     }
 }
