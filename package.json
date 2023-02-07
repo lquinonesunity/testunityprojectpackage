@@ -15,7 +15,10 @@
   },
   "dependencies": {
     "com.unity.ext.nunit": "1.0.0",
-    "com.unity.features.team.samples.otherpackage": "ssh://git@github.com/lquinonesunity/mainpackage.git#upm"
+    "com.unity.features.team.samples.otherpackage": "1.0.0-pre.1"
+  },
+  "relatedPackages": {
+    
   },
   "keywords": [
     "Unity Samples",
