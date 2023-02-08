@@ -1,7 +1,7 @@
 cd Assets\Framework\
 copy *.cs ..\..\..\DLLTest_GetFilesFromUnity
 cd ..\..\..\DLLTest_GetFilesFromUnity
-MsBuild DLLTest.csproj
+Msbuild DLLTest.csproj
 cd ..\testunityprojectpackage
 git add .
 git commit -m "Updating DLL Library"
