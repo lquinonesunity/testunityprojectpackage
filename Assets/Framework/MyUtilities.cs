@@ -3,45 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 
 namespace DLLTest {
-
     public class MyUtilities {
-    
-        public int c;
-
-        public void AddValues(int a, int b) {
-            c = a + b;  
-        }
-    
-        public static int GenerateRandom(int min, int max) {
-            System.Random rand = new System.Random();
-            return rand.Next(min, max);
-        }
-
-        public void CallToShowText()
+        public void MyMethod_One()
         {
-            Class1.ShowText();
+            Debug.Log("MyMethod_One(): ");
+            Class1.ShowTextFromResources();
         }
-
-        public void CallToShowText_Alternative()
+        public void MyMethod_Two()
         {
-            Debug.Log("My Call 2");
-            Class1.ShowText();
-        }
-        public void CallToNumbers()
-        {
-            Debug.Log("My Call Numbers 1");
-            Class1.ShowNumber();
-        }
-
-        public void CallNewMethod()
-        {
-            Debug.Log("New Method");
-            Class1.MyNewMethodShowSomething();
-        }
-
-        public void NewCallToClass2()
-        {
-            Debug.Log("NewCallToClass2(): ");
+            Debug.Log("MyMethod_Two(): ");
             Class2.ShowAMessage();
         }
     }
