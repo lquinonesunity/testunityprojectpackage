@@ -11,7 +11,7 @@ public class CompileDLLs : Editor
     [MenuItem("Tools/CompileTool")]
     private static void CompileScripts()
     {
-        Debug.Log("EditorButton");
+        Debug.Log("Compiling scripts to dll");
         
         
         // start the child process

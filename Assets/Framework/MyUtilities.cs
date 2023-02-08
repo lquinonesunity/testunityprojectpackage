@@ -38,5 +38,11 @@ namespace DLLTest {
             Debug.Log("New Method");
             Class1.MyNewMethodShowSomething();
         }
+
+        public void NewCallToClass2()
+        {
+            Debug.Log("NewCallToClass2(): ");
+            Class2.ShowAMessage();
+        }
     }
 }
