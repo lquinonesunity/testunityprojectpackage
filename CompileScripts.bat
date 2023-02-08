@@ -1,8 +1,9 @@
 cd Assets\Framework\
-copy *.cs ..\..\..\DLLTest_GetFilesFromUnity
-cd ..\..\..\DLLTest_GetFilesFromUnity
+copy *.cs D:\lquinones\SampleCSharpPlugin\DLLTest_GetFilesFromUnity
+cd D:\lquinones\SampleCSharpPlugin\DLLTest_GetFilesFromUnity
+%comspec% /k "C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Auxiliary\Build\vcvars64.bat"
 Msbuild DLLTest.csproj
-cd ..\testunityprojectpackage
+cd D:\lquinones\lab\_FeaturesSamplesRepo\__LearnjamTest\testunityprojectpackage
 git add .
 git commit -m "Updating DLL Library"
 git push origin main > log.log
