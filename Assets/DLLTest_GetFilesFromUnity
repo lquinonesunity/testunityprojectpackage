@@ -1,0 +1,53 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using UnityEngine;
+
+namespace DLLTest
+{
+    public class Class1 : MonoBehaviour
+    {
+        public static void ShowTextFromResources()
+        {
+            var mytext = Resources.Load<TextAsset>("Text/MyText");
+            Debug.Log(mytext.text);
+        }
+    }
+}
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using UnityEngine;
+
+namespace DLLTest
+{
+    public class Class2
+    {
+        public static void ShowAMessage()
+        {
+            Debug.Log("Class2: ShowAMessage()");
+        }
+    }
+}using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace DLLTest {
+    public class MyUtilities {
+        public void MyMethod_One()
+        {
+            Debug.Log("MyMethod_One(): ");
+            Class1.ShowTextFromResources();
+        }
+        public void MyMethod_Two()
+        {
+            Debug.Log("MyMethod_Two(): ");
+            Class2.ShowAMessage();
+        }
+    }
+}
+

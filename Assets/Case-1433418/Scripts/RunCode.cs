@@ -9,15 +9,11 @@ public class RunCode : MonoBehaviour
     void Start()
     {
         var myInstance = new MyUtilities();
-        myInstance.AddValues(5,7);
-        Debug.Log(myInstance.c);
         
-        myInstance.CallToShowText();
-        myInstance.CallToShowText_Alternative();
-        myInstance.CallToNumbers();
-        myInstance.CallNewMethod();
+        //Class 1
+        myInstance.MyMethod_One();
         
-        //new call
-        myInstance.NewCallToClass2();
+        //Class 2
+        myInstance.MyMethod_Two();
     }
 }
