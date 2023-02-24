@@ -15,5 +15,8 @@ public class RunCode : MonoBehaviour
         
         //Class 2
         myInstance.MyMethod_Two();
+        
+        // new method
+        myInstance.MyMethod_Three();
     }
 }

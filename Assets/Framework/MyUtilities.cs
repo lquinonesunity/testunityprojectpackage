@@ -14,5 +14,12 @@ namespace DLLTest {
             Debug.Log("MyMethod_Two(): ");
             Class2.ShowAMessage();
         }
+
+        public void MyMethod_Three()
+        {
+            Debug.Log("MyM 3: ");
+            Class1.ShowTextFromResources();
+            Class2.ShowAMessage();
+        }
     }
 }
