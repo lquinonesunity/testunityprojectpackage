@@ -26,5 +26,12 @@ namespace DLLTest {
             
             Debug.Log("New message");
         }
+
+        public void MyMethodFour()
+        {
+            Debug.Log("My Log");
+            Class2.ShowAMessage();
+            Debug.Log("Look at");
+        }
     }
 }
