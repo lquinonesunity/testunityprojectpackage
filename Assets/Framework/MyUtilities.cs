@@ -20,11 +20,7 @@ namespace DLLTest {
             Debug.Log("MyM 3: ");
             Class1.ShowTextFromResources();
             Class2.ShowAMessage();
-            Debug.Log("Method 3");
-            Debug.Log("Method 33");
-            Debug.Log("Method 666");
-            
-            Debug.Log("New message");
+            Debug.Log("New Message at 11.51");
         }
 
         public void MyMethodFour()
@@ -42,6 +38,11 @@ namespace DLLTest {
         public void MyMethod_S()
         {
             Debug.Log("S ");
+        }
+
+        public void MyMethod_Seven()
+        {
+            Debug.Log("Seven ");
         }
     }
 }
