@@ -23,6 +23,8 @@ namespace DLLTest {
             Debug.Log("Method 3");
             Debug.Log("Method 33");
             Debug.Log("Method 666");
+            
+            Debug.Log("New message");
         }
     }
 }
