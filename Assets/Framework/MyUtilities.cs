@@ -22,6 +22,7 @@ namespace DLLTest {
             Class2.ShowAMessage();
             Debug.Log("Method 3");
             Debug.Log("Method 33");
+            Debug.Log("Method 666");
         }
     }
 }
