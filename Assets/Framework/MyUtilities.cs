@@ -44,5 +44,10 @@ namespace DLLTest {
         {
             Debug.Log("Seven ");
         }
+
+        public void MyMethod_Eight()
+        {
+            Debug.Log("Eight 8");
+        }
     }
 }
