@@ -29,9 +29,9 @@ namespace DLLTest {
 
         public void MyMethodFour()
         {
+            Debug.Log("Look at: ");
             Debug.Log("My Log");
             Class2.ShowAMessage();
-            Debug.Log("Look at: ");
         }
     }
 }
