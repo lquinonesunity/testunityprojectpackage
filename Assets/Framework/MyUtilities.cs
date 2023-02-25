@@ -33,5 +33,15 @@ namespace DLLTest {
             Debug.Log("My Log");
             Class2.ShowAMessage();
         }
+
+        public void MyMethod_Five()
+        {
+            Debug.Log("Five ");
+        }
+
+        public void MyMethod_S()
+        {
+            Debug.Log("S ");
+        }
     }
 }
