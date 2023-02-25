@@ -20,6 +20,7 @@ namespace DLLTest {
             Debug.Log("MyM 3: ");
             Class1.ShowTextFromResources();
             Class2.ShowAMessage();
+            Debug.Log("Method 3");
         }
     }
 }
