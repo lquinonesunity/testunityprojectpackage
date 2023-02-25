@@ -5,3 +5,230 @@
 [vcvarsall.bat] Environment initialized for: 'x64'
 
 D:\lquinones\lab\_FeaturesSamplesRepo\__LearnjamTest\testunityprojectpackage>
+
+D:\lquinones\lab\_FeaturesSamplesRepo\__LearnjamTest\testunityprojectpackage>
+
+D:\lquinones\lab\_FeaturesSamplesRepo\__LearnjamTest\testunityprojectpackage>
+
+D:\lquinones\lab\_FeaturesSamplesRepo\__LearnjamTest\testunityprojectpackage>
+
+D:\lquinones\lab\_FeaturesSamplesRepo\__LearnjamTest\testunityprojectpackage>D:\lquinones\lab\_FeaturesSamplesRepo\__LearnjamTest\testunityprojectpackage>D:\lquinones\lab\_FeaturesSamplesRepo\__LearnjamTest\testunityprojectpackage> Volume in drive D is Backup
+ Volume Serial Number is 98B1-7B6E
+
+ Directory of D:\lquinones\lab\_FeaturesSamplesRepo\__LearnjamTest\testunityprojectpackage
+
+02/25/2023  12:37 PM    <DIR>          .
+02/25/2023  12:37 PM    <DIR>          ..
+01/13/2023  04:11 PM    <DIR>          .github
+01/13/2023  04:11 PM             1,356 .gitignore
+01/13/2023  04:11 PM    <DIR>          .idea
+01/13/2023  04:11 PM               105 .vsconfig
+02/25/2023  12:20 PM            65,251 Assembly-CSharp-Editor.csproj
+02/25/2023  12:29 PM            91,640 Assembly-CSharp.csproj
+02/25/2023  12:29 PM            52,748 Assembly-CSharp.Player.csproj
+02/25/2023  12:37 PM    <DIR>          Assets
+02/25/2023  12:37 PM                 0 Change.log
+02/25/2023  12:29 PM            52,898 com.unity.features.team.samples.csproj
+02/25/2023  12:20 PM            55,075 com.unity.features.team.samples.Editor.csproj
+02/25/2023  12:20 PM            54,900 com.unity.features.team.samples.Editor.Tests.csproj
+02/07/2023  12:05 PM            52,697 com.unity.features.team.samples.otherpackage.csproj
+02/07/2023  12:05 PM            49,681 com.unity.features.team.samples.otherpackage.Player.csproj
+02/07/2023  12:05 PM            54,867 com.unity.features.team.samples.otherpackageEditor.csproj
+02/07/2023  12:05 PM            54,692 com.unity.features.team.samples.othersample.Editor.Tests.csproj
+02/07/2023  12:05 PM            52,653 com.unity.features.team.samples.othersample.Tests.csproj
+02/07/2023  12:05 PM            49,637 com.unity.features.team.samples.othersample.Tests.Player.csproj
+02/25/2023  12:29 PM            49,043 com.unity.features.team.samples.Player.csproj
+02/25/2023  12:29 PM            52,862 com.unity.features.team.samples.Tests.csproj
+02/25/2023  12:29 PM            49,065 com.unity.features.team.samples.Tests.Player.csproj
+02/25/2023  12:37 PM               476 CompileScripts.bat
+02/02/2023  11:51 AM            52,251 DLLTest.csproj
+02/02/2023  11:51 AM            49,235 DLLTest.Player.csproj
+02/15/2023  01:05 AM             3,331 DocCodeExamples.csproj
+01/13/2023  04:11 PM               174 InitWorkflowSamples.bat
+02/25/2023  12:35 PM    <DIR>          Library
+02/25/2023  12:37 PM                 0 log.log
+02/25/2023  11:24 AM    <DIR>          Logs
+02/09/2023  06:21 PM         1,689,701 MainProject.zip
+02/01/2023  11:58 PM            52,679 NewAssembly.com.csproj
+02/01/2023  11:58 PM            49,663 NewAssembly.com.Player.csproj
+02/02/2023  11:13 AM            52,259 NewAssembly.csproj
+02/02/2023  11:13 AM            49,243 NewAssembly.Player.csproj
+01/22/2023  08:31 PM    <DIR>          obj
+02/15/2023  01:05 AM    <DIR>          Packages
+02/25/2023  12:37 PM    <DIR>          ProjectSettings
+02/25/2023  12:20 PM            61,591 PsdPlugin.csproj
+02/15/2023  01:05 AM             3,355 SeparateAssembly.csproj
+02/25/2023  12:35 PM    <DIR>          Temp
+02/24/2023  08:17 PM                86 test.bat
+02/15/2023  01:05 AM            34,434 testunityprojectpackage.sln
+02/25/2023  12:20 PM            86,689 Unity.2D.Animation.Editor.csproj
+02/15/2023  01:05 AM             3,363 Unity.2D.Animation.EditorTests.csproj
+02/25/2023  12:29 PM            55,716 Unity.2D.Animation.Runtime.csproj
+02/25/2023  12:29 PM            51,871 Unity.2D.Animation.Runtime.Player.csproj
+02/25/2023  12:20 PM            56,580 Unity.2D.Common.Editor.csproj
+02/15/2023  01:05 AM             3,351 Unity.2D.Common.EditorTests.csproj
+02/25/2023  12:29 PM            53,834 Unity.2D.Common.Runtime.csproj
+02/25/2023  12:29 PM            49,961 Unity.2D.Common.Runtime.Player.csproj
+02/25/2023  12:20 PM            56,990 Unity.2D.IK.Editor.csproj
+02/25/2023  12:29 PM            54,210 Unity.2D.IK.Runtime.csproj
+02/25/2023  12:29 PM            50,309 Unity.2D.IK.Runtime.Player.csproj
+02/25/2023  12:20 PM            60,782 Unity.2D.Path.Editor.csproj
+02/15/2023  01:05 AM             3,317 Unity.2D.Path.Tests.csproj
+02/25/2023  12:29 PM            53,199 Unity.2D.PixelPerfect.csproj
+02/25/2023  12:20 PM            55,884 Unity.2D.PixelPerfect.Editor.csproj
+01/23/2023  12:17 PM             3,379 Unity.2D.PixelPerfect.Editor.Tests.csproj
+02/15/2023  01:05 AM             3,377 Unity.2D.PixelPerfect.EditorTests.csproj
+02/25/2023  12:29 PM            49,390 Unity.2D.PixelPerfect.Player.csproj
+01/23/2023  12:17 PM             3,367 Unity.2D.PixelPerfect.Tests.csproj
+02/25/2023  12:20 PM            59,515 Unity.2D.Psdimporter.Editor.csproj
+02/15/2023  01:05 AM             3,381 Unity.2D.Psdimporter.EditorTests.csproj
+02/25/2023  12:20 PM            60,755 Unity.2D.Sprite.Editor.csproj
+02/15/2023  01:05 AM             3,367 Unity.2D.Sprite.Package.EditorTests.csproj
+02/25/2023  12:20 PM            58,961 Unity.2D.SpriteShape.Editor.csproj
+02/15/2023  01:05 AM             3,371 Unity.2D.SpriteShape.EditorTests.csproj
+02/25/2023  12:29 PM            55,503 Unity.2D.SpriteShape.Runtime.csproj
+02/25/2023  12:29 PM            51,407 Unity.2D.SpriteShape.Runtime.Player.csproj
+02/25/2023  12:20 PM            60,272 Unity.2D.Tilemap.Editor.csproj
+02/25/2023  12:29 PM            54,427 Unity.2D.Tilemap.Extras.csproj
+02/25/2023  12:20 PM            57,924 Unity.2D.Tilemap.Extras.Editor.csproj
+02/15/2023  01:05 AM             3,395 Unity.2D.Tilemap.Extras.Placeholder.EditorTests.csproj
+02/25/2023  12:29 PM            49,857 Unity.2D.Tilemap.Extras.Player.csproj
+02/15/2023  01:05 AM             3,371 Unity.2D.Tilemap.Package.EditorTests.csproj
+02/07/2023  12:05 PM            56,386 Unity.Addressables.csproj
+02/07/2023  12:05 PM            72,332 Unity.Addressables.Editor.csproj
+01/22/2023  08:17 PM             4,007 Unity.Addressables.Editor.Tests.csproj
+02/07/2023  12:05 PM            53,384 Unity.Addressables.Player.csproj
+01/22/2023  08:17 PM             3,584 Unity.Addressables.Tests.csproj
+02/15/2023  01:05 AM            51,446 Unity.Burst.CodeGen.csproj
+02/25/2023  12:29 PM            58,685 Unity.Burst.csproj
+02/25/2023  12:20 PM            56,120 Unity.Burst.Editor.csproj
+02/15/2023  01:05 AM             3,337 Unity.Burst.Editor.Tests.csproj
+02/25/2023  12:29 PM            54,341 Unity.Burst.Player.csproj
+02/15/2023  01:05 AM             3,728 Unity.Burst.Tests.UnitTests.csproj
+02/25/2023  12:20 PM            55,122 Unity.CollabProxy.Editor.csproj
+02/25/2023  12:20 PM            55,246 Unity.EditorCoroutines.Editor.csproj
+02/07/2023  12:05 PM            57,529 Unity.Formats.USD.Editor.csproj
+02/01/2023  03:18 PM            49,185 Unity.Formats.USD.ExportMesh.csproj
+02/01/2023  03:18 PM            48,756 Unity.Formats.USD.ExportMesh.Player.csproj
+02/01/2023  03:18 PM            48,910 Unity.Formats.USD.HelloUsd.csproj
+02/01/2023  03:18 PM            48,481 Unity.Formats.USD.HelloUsd.Player.csproj
+02/01/2023  03:18 PM            49,422 Unity.Formats.USD.ImportMaterials.csproj
+02/01/2023  03:18 PM            48,806 Unity.Formats.USD.ImportMaterials.Player.csproj
+02/01/2023  03:18 PM            49,308 Unity.Formats.USD.ImportMesh.csproj
+02/01/2023  03:18 PM            48,678 Unity.Formats.USD.ImportMesh.Player.csproj
+02/01/2023  03:18 PM            49,140 Unity.Formats.USD.ImportProcessor.csproj
+02/01/2023  03:18 PM            48,711 Unity.Formats.USD.ImportProcessor.Player.csproj
+02/07/2023  12:05 PM            70,502 Unity.Formats.USD.Runtime.csproj
+02/07/2023  12:05 PM            67,528 Unity.Formats.USD.Runtime.Player.csproj
+02/01/2023  03:18 PM            49,179 Unity.Formats.USD.UsdTimelinePlayable.csproj
+02/01/2023  03:18 PM            48,549 Unity.Formats.USD.UsdTimelinePlayable.Player.csproj
+02/25/2023  12:20 PM            55,689 Unity.InternalAPIEditorBridge.001.csproj
+02/07/2023  12:05 PM            55,749 Unity.InternalAPIEditorBridge.013.csproj
+02/25/2023  12:29 PM            53,016 Unity.InternalAPIEngineBridge.001.csproj
+02/25/2023  12:29 PM            49,195 Unity.InternalAPIEngineBridge.001.Player.csproj
+02/07/2023  12:05 PM            52,912 Unity.InternalAPIEngineBridge.013.csproj
+02/07/2023  12:05 PM            49,896 Unity.InternalAPIEngineBridge.013.Player.csproj
+02/07/2023  12:05 PM            78,140 Unity.Localization.csproj
+01/22/2023  08:17 PM             3,366 Unity.Localization.DocCodeSamples.csproj
+02/07/2023  12:05 PM            80,777 Unity.Localization.Editor.csproj
+01/22/2023  08:17 PM             5,027 Unity.Localization.Editor.Tests.csproj
+02/07/2023  12:05 PM            75,180 Unity.Localization.Player.csproj
+01/22/2023  08:17 PM             3,777 Unity.Localization.Runtime.Tests.csproj
+02/25/2023  12:29 PM            62,947 Unity.Mathematics.csproj
+02/25/2023  12:20 PM            55,483 Unity.Mathematics.Editor.csproj
+02/25/2023  12:29 PM            58,824 Unity.Mathematics.Player.csproj
+02/15/2023  01:05 AM             3,609 Unity.Mathematics.Tests.csproj
+02/25/2023  12:20 PM            59,133 Unity.Performance.Profile-Analyzer.Editor.csproj
+02/15/2023  01:05 AM             3,427 Unity.Performance.Profile-Analyzer.EditorTests.csproj
+02/15/2023  01:05 AM            99,889 Unity.PlasticSCM.Editor.csproj
+02/25/2023  12:29 PM            52,937 Unity.PlayableGraphVisualizer.csproj
+02/25/2023  12:20 PM            57,453 Unity.PlayableGraphVisualizer.Editor.csproj
+02/25/2023  12:29 PM            49,084 Unity.PlayableGraphVisualizer.Player.csproj
+02/15/2023  01:05 AM             3,419 Unity.PlayableGraphVisualizer.Tests.csproj
+02/07/2023  12:05 PM            59,698 Unity.ResourceManager.csproj
+02/07/2023  12:05 PM            56,682 Unity.ResourceManager.Player.csproj
+01/22/2023  08:17 PM             3,633 Unity.ResourceManager.Tests.csproj
+02/15/2023  01:05 AM            55,627 Unity.Rider.Editor.csproj
+02/07/2023  12:05 PM            52,884 Unity.ScriptableBuildPipeline.csproj
+02/07/2023  12:05 PM            68,732 Unity.ScriptableBuildPipeline.Editor.csproj
+01/22/2023  08:17 PM             3,411 Unity.ScriptableBuildPipeline.Editor.Tests.csproj
+02/07/2023  12:05 PM            49,868 Unity.ScriptableBuildPipeline.Player.csproj
+01/22/2023  08:17 PM             3,383 Unity.ScriptableBuildPipeline.Tests.csproj
+02/10/2023  03:23 PM            52,953 Unity.Services.Core.Analytics.csproj
+02/10/2023  03:23 PM            49,951 Unity.Services.Core.Analytics.Player.csproj
+02/10/2023  03:23 PM            54,570 Unity.Services.Core.Configuration.csproj
+02/10/2023  03:23 PM            56,395 Unity.Services.Core.Configuration.Editor.csproj
+02/10/2023  03:23 PM            51,582 Unity.Services.Core.Configuration.Player.csproj
+02/10/2023  03:23 PM            54,281 Unity.Services.Core.csproj
+02/10/2023  03:23 PM            53,708 Unity.Services.Core.Device.csproj
+02/10/2023  03:23 PM            50,706 Unity.Services.Core.Device.Player.csproj
+02/10/2023  03:23 PM            68,644 Unity.Services.Core.Editor.csproj
+02/10/2023  03:23 PM            53,186 Unity.Services.Core.Environments.csproj
+02/10/2023  03:23 PM            53,041 Unity.Services.Core.Environments.Internal.csproj
+02/10/2023  03:23 PM            50,039 Unity.Services.Core.Environments.Internal.Player.csproj
+02/10/2023  03:23 PM            50,198 Unity.Services.Core.Environments.Player.csproj
+02/10/2023  03:23 PM            63,943 Unity.Services.Core.Internal.csproj
+02/10/2023  03:23 PM            60,941 Unity.Services.Core.Internal.Player.csproj
+02/10/2023  03:23 PM            53,283 Unity.Services.Core.Networking.csproj
+02/10/2023  03:23 PM            50,295 Unity.Services.Core.Networking.Player.csproj
+02/10/2023  03:23 PM            51,265 Unity.Services.Core.Player.csproj
+02/10/2023  03:23 PM            54,688 Unity.Services.Core.Registration.csproj
+02/10/2023  03:23 PM            51,798 Unity.Services.Core.Registration.Player.csproj
+02/10/2023  03:23 PM            53,882 Unity.Services.Core.Scheduler.csproj
+02/10/2023  03:23 PM            50,894 Unity.Services.Core.Scheduler.Player.csproj
+02/10/2023  03:23 PM            58,297 Unity.Services.Core.Telemetry.csproj
+02/10/2023  03:23 PM            55,309 Unity.Services.Core.Telemetry.Player.csproj
+02/10/2023  03:23 PM            53,160 Unity.Services.Core.Threading.csproj
+02/10/2023  03:23 PM            50,172 Unity.Services.Core.Threading.Player.csproj
+02/25/2023  12:20 PM            55,960 Unity.Settings.Editor.csproj
+02/15/2023  01:05 AM             3,358 Unity.Settings.Tests.csproj
+02/15/2023  01:05 AM             3,401 Unity.TestTools.CodeCoverage.Editor.Compatibility.csproj
+02/15/2023  01:05 AM            58,763 Unity.TestTools.CodeCoverage.Editor.csproj
+02/25/2023  12:20 PM            57,028 Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj
+02/25/2023  12:20 PM            55,541 Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj
+02/25/2023  12:29 PM            59,449 Unity.TextMeshPro.csproj
+02/25/2023  12:20 PM            60,631 Unity.TextMeshPro.Editor.csproj
+02/15/2023  01:05 AM             3,361 Unity.TextMeshPro.Editor.Tests.csproj
+02/25/2023  12:29 PM            55,638 Unity.TextMeshPro.Player.csproj
+02/15/2023  01:05 AM             3,349 Unity.TextMeshPro.Tests.csproj
+02/25/2023  12:29 PM            62,130 Unity.Timeline.csproj
+02/25/2023  12:20 PM            90,591 Unity.Timeline.Editor.csproj
+02/25/2023  12:29 PM            57,066 Unity.Timeline.Player.csproj
+02/25/2023  12:29 PM           122,492 Unity.VisualScripting.Core.csproj
+02/25/2023  12:20 PM           132,691 Unity.VisualScripting.Core.Editor.csproj
+02/25/2023  12:29 PM           113,489 Unity.VisualScripting.Core.Player.csproj
+02/25/2023  12:29 PM           117,434 Unity.VisualScripting.Flow.csproj
+02/25/2023  12:20 PM            82,328 Unity.VisualScripting.Flow.Editor.csproj
+02/25/2023  12:29 PM           108,518 Unity.VisualScripting.Flow.Player.csproj
+02/25/2023  12:20 PM            57,324 Unity.VisualScripting.SettingsProvider.Editor.csproj
+02/25/2023  12:20 PM            56,387 Unity.VisualScripting.Shared.Editor.csproj
+02/25/2023  12:29 PM            57,746 Unity.VisualScripting.State.csproj
+02/25/2023  12:20 PM            66,842 Unity.VisualScripting.State.Editor.csproj
+02/25/2023  12:29 PM            53,434 Unity.VisualScripting.State.Player.csproj
+02/15/2023  01:05 AM            56,436 Unity.VisualStudio.Editor.csproj
+02/25/2023  12:20 PM            55,800 Unity.VSCode.Editor.csproj
+02/07/2023  12:05 PM            55,310 UnityEditor.CacheServer.csproj
+01/22/2023  08:17 PM             3,407 UnityEditor.CacheServerTests.csproj
+02/15/2023  01:05 AM            75,296 UnityEditor.TestRunner.csproj
+02/25/2023  12:20 PM            58,833 UnityEditor.UI.csproj
+02/15/2023  01:05 AM             4,074 UnityEditor.UI.EditorTests.csproj
+02/25/2023  12:29 PM            66,489 UnityEngine.TestRunner.csproj
+02/25/2023  12:29 PM            63,437 UnityEngine.TestRunner.Player.csproj
+02/25/2023  12:29 PM            63,094 UnityEngine.UI.csproj
+02/25/2023  12:29 PM            58,060 UnityEngine.UI.Player.csproj
+02/15/2023  01:05 AM             5,008 UnityEngine.UI.Tests.csproj
+02/07/2023  12:05 PM           136,060 USD.NET.csproj
+02/07/2023  12:05 PM           133,044 USD.NET.Player.csproj
+02/07/2023  12:05 PM            57,072 USD.NET.Unity.csproj
+02/07/2023  12:05 PM            54,070 USD.NET.Unity.Player.csproj
+02/25/2023  12:22 PM    <DIR>          UserSettings
+             193 File(s)     10,899,594 bytes
+              12 Dir(s)  15,683,420,160 bytes free
+
+D:\lquinones\lab\_FeaturesSamplesRepo\__LearnjamTest\testunityprojectpackage>
+
+D:\lquinones\lab\_FeaturesSamplesRepo\__LearnjamTest\testunityprojectpackage>
+
+D:\lquinones\lab\_FeaturesSamplesRepo\__LearnjamTest\testunityprojectpackage>
+
+D:\lquinones\lab\_FeaturesSamplesRepo\__LearnjamTest\testunityprojectpackage>
