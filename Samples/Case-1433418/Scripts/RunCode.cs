@@ -18,5 +18,8 @@ public class RunCode : MonoBehaviour
         
         // new method
         myInstance.MyMethod_Three();
+        
+        // justo a try
+        Debug.Log("MyLog");
     }
 }
