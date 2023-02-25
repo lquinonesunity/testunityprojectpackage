@@ -33,5 +33,8 @@ public class RunCode : MonoBehaviour
         
         // 7th method
         myInstance.MyMethod_Seven();
+        
+        // 8th method
+        myInstance.MyMethod_Eight();
     }
 }
