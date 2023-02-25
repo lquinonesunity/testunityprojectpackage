@@ -20,7 +20,7 @@ public class CompileDLLs : Editor
         // redirect the output stream of the child process.
         process.StartInfo.UseShellExecute = false;
         process.StartInfo.RedirectStandardOutput = true;
-        process.StartInfo.CreateNoWindow = true;
+        process.StartInfo.CreateNoWindow = false;
         process.StartInfo.FileName = @"CompileScripts.bat";
         process.StartInfo.Arguments = "";
  
