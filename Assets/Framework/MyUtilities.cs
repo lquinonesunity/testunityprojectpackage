@@ -31,7 +31,7 @@ namespace DLLTest {
         {
             Debug.Log("My Log");
             Class2.ShowAMessage();
-            Debug.Log("Look at");
+            Debug.Log("Look at: ");
         }
     }
 }
