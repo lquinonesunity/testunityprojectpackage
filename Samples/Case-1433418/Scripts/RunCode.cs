@@ -20,7 +20,9 @@ public class RunCode : MonoBehaviour
         myInstance.MyMethod_Three();
         
         // justo a try
-        Debug.Log("MyLog");
-        Debug.Log("MyLog 2");
+        Debug.Log("Just a try");
+        
+        // 4th method
+        myInstance.MyMethodFour();
     }
 }
