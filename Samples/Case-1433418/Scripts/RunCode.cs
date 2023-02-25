@@ -21,5 +21,6 @@ public class RunCode : MonoBehaviour
         
         // justo a try
         Debug.Log("MyLog");
+        Debug.Log("MyLog 2");
     }
 }
