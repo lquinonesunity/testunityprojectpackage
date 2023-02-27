@@ -1,5 +1,5 @@
 
-call "C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Auxiliary\Build\vcvars64.bat" x64
+
 cd Assets\Framework\
 copy *.cs D:\lquinones\SampleCSharpPlugin\DLLTest_GetFilesFromUnity
 cd D:\lquinones\SampleCSharpPlugin\DLLTest_GetFilesFromUnity
