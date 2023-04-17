@@ -1,0 +1,70 @@
+{
+  "name": "com.unity.features.team.samples.copy",
+  "displayName": "Features Samples",
+  "version": "1.0.0-pre.1",
+  "unity": "2021.3",
+  "unityRelease": "11f1",
+  "description": "This is a package to serve some features samples.",
+  "category": "Tool",
+  "type": "tool",
+  "license": "MIT",
+  "author": {
+    "name": "Leonardo Quinones",
+    "email": "leonardoquinones@unity3d.com",
+    "url": "https://www.unity.com"
+  },
+  "dependencies": {
+    "com.unity.ext.nunit": "1.0.0"
+  },
+  "relatedPackages": {
+    
+  },
+  "keywords": [
+    "Unity Samples",
+    "Scripts",
+    "Template",
+    "Tool"
+  ],
+  "samples": [
+    {
+      "displayName": "Example 1",
+      "description": "This sample is just an example",
+      "path": "Samples~/Example1"
+    },
+    {
+      "displayName": "Example 12",
+      "description": "This sample is just an example 2",
+      "path": "Samples~/Example2"
+    },
+    {
+      "displayName": "AnotheSample",
+      "description": "This sample is just an AnotheSample",
+      "path": "Samples~/AnotheSample"
+    },
+    {
+      "displayName": "Playables Sample",
+      "description": "This is a sample of the playables examples given by unity",
+      "path": "Samples~/PlayablesSampleLeo"
+    },
+    {
+      "displayName": "MyNewTestSample01",
+      "description": "A test project called MyNewTestSample01",
+      "path": "Samples~/MyNewTestSample01"
+    },
+    {
+      "displayName": "Grid Level Editor",
+      "description": "Grid Level Editor by LQ",
+      "path": "Samples~/_Minigames"
+    },
+    {
+      "displayName": "Jonatan",
+      "description": "Jonatan by Jonatan",
+      "path": "Samples~/Jonatan"
+    },
+    {
+      "displayName": "Case-1433418",
+      "description": "Case-1433418 by Leo",
+      "path": "Samples~/Case-1433418"
+    }
+  ]
+}
