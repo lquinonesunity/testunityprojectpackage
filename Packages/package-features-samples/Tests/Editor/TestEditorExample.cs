@@ -85,7 +85,7 @@ namespace com.unity.features.team.samples.Editor.Tests
         /// In Edit Mode you can use the following line to skip a frame:
         /// <code>yield return null;</code>
         /// </summary>
-        [UnityTest]
+        [Test]
         public IEnumerator TestEditorExampleWithEnumeratorPasses()
         {
             // Use the Assert class to test conditions.
