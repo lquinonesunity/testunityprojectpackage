@@ -15,6 +15,11 @@
   "dependencies": {
     "com.unity.ext.nunit": "1.0.0"
   },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git",
+    "type": "git",
+    "revision": "b01f8fc6766a468476830dec57fdf694f16104e6"
+  },
   "relatedPackages": {
     
   },
