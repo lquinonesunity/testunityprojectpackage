@@ -1,8 +1,8 @@
 {
   "name": "com.unity.features.team.samples",
   "displayName": "Features Samples",
-  "version": "1.8.0",
-  "unity": "2019.3",
+  "version": "1.9.0",
+  "unity": "2022.3",
   "description": "This is a package to serve some features samples.",
   "category": "Tool",
   "type": "tool",
