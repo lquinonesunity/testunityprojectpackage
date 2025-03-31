@@ -1,7 +1,7 @@
 {
   "name": "com.unity.features.team.samples",
   "displayName": "Features Samples",
-  "version": "1.8.1",
+  "version": "1.8.2",
   "unity": "2021.3",
   "unityRelease": "11f1",
   "description": "This is a package to serve some features samples.",
